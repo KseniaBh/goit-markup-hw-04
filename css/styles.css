@@ -269,11 +269,9 @@ img {
 }
 .team-link-icon:hover {
   background-color: #404bbf;
-  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .team-link-icon:focus {
   background-color: #404bbf;
-  transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .team-soc-link {
   fill: #f4f4fd;
