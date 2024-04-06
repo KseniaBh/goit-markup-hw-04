@@ -277,6 +277,7 @@ img {
 }
 .team-soc-link {
   fill: #f4f4fd;
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .team-row {
   display: flex;
