@@ -134,7 +134,7 @@ ul {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url(/images/people-office.jpg);
+    url(../images/people-office.jpg);
   background-color: #2e2f42;
   color: #ffffff;
   background-repeat: no-repeat;
@@ -150,13 +150,11 @@ ul {
 .container-advantages-img {
   border: 1px solid #8e8f99;
   border-radius: 4px;
-  width: 264px;
+
   height: 112px;
   background: #f4f4fd;
   display: flex;
   justify-content: center;
-  padding-top: 24px;
-  padding-bottom: 24px;
   margin-bottom: 8px;
   align-items: center;
 }
@@ -439,7 +437,6 @@ img {
   text-decoration: none;
 }
 .container-footer-link {
-  display: flex;
   flex-direction: column;
   align-items: center;
 }
@@ -475,7 +472,6 @@ img {
 }
 .footer-soc-link {
   fill: #f4f4fd;
-  margin: 12px;
 }
 .footer-icon:hover,
 .footer-icon:focus {
